@@ -1,2 +1,2 @@
 # Place holder
-[Start](../start-01.md)
+[Start](../docs/start-01.md)
